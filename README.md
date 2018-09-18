@@ -3,4 +3,4 @@
 
 Это проект-заглушка, предназначен для экспериментов.
 
-[Link](https://rifco.ru "RifCo")
+[Link](https://rifco.ru "RifCo" target="_blank")
