@@ -1,6 +1,6 @@
 <code>A -> B</code>
 
-<code<A -&gt; B</code>
+<code>A -&gt; B</code>
 
 `A -> B`
 
